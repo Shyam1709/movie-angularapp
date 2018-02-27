@@ -1,0 +1,7 @@
+.card{
+max-height:370px;
+}
+.card-title{
+  white-space: nowrap;
+  overflow: hidden;
+}

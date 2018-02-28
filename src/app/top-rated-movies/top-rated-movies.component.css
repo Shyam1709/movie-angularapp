@@ -1,7 +1,8 @@
+/* Css for card */
 .card{
 max-height:360px;
 }
 .card-title{
-  white-space: nowrap;
-  overflow: hidden;
+white-space: nowrap;
+overflow: hidden;
 }

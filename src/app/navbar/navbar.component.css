@@ -1,9 +1,8 @@
-.bg-set{
-  background-color:black;
-}
+/* Css for Navigation links */
 .nav-link{
-  color: rgb(255,255,240);
+color: rgb(255,255,240);
 }
-.head{
-  color:rgb(255,250,205);
+/* Css for Navbar Brand */
+.brand{
+color:rgb(255,250,205);
 }
